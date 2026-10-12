@@ -2,7 +2,7 @@
 An aspiring Web Developer who currently learning the fundamentals.
 
 # Currently learning 
-- HTML
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - CSS
 - JavaScript
 
